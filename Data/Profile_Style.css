@@ -1,5 +1,5 @@
 #background {
-  background-image: url("https://wallpaperscraft.com/image/black_background_pattern_light_texture_55291_3840x2400.jpg");
+  background-image: url("http://cdn.wallpapersafari.com/4/59/ZpEWTJ.jpg");
   background-size: cover;
 }
 #menu {
@@ -27,7 +27,7 @@ tr, td {
   margin-bottom: 50px;
   margin-left: 32%;
   letter-spacing: 5px;
-  /*border: 5px white solid;*/
+
 }
 #gallery {
   color: white;
@@ -38,12 +38,7 @@ tr, td {
   padding-top: 7px;
   width: 100px;
   height: 30px;
-  border: 3px white solid;
-  float: left;
-  margin-left: 42%;
-}
-#resume {
-  color: white;
+  border: 3px white ;
   font-size: 15px;
   font-family: sans-serif;
   font-weight: bold;
@@ -54,8 +49,44 @@ tr, td {
   border: 3px white solid;
   float: left;
   margin-left: 10px;
+  display: block;
 }
 a {
   text-decoration: none;
   color: white;
+}
+.fill-screen{
+  display: block;
+  margin-right: 30%;
+}
+.fit {
+  float: right;
+  margin-right: 150;
+  width: 60%;
+/*  overflow: hidden;*/
+}
+#content1{
+
+  padding-top: 50px;
+ font-size: 50px;
+ font-family: fantasy;
+ color: blue;
+  text-align: center;
+  clear: both;
+}
+#locationPic{
+float: right;
+width: 80%;
+margin-top: 50px;
+margin-right: 150px;
+margin-bottom: 100px;
+
+}
+
+#content3{
+  font-size: 50px;
+ font-family: fantasy;
+   text-align: center;
+  clear: both;
+  margin-bottom: 50px;
 }
