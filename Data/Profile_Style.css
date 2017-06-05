@@ -61,7 +61,7 @@ a {
 }
 .fit {
   float: right;
-  margin-right: 150;
+  margin-right: 0px;
   width: 60%;
 /*  overflow: hidden;*/
 }
