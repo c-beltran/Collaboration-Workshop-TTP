@@ -1,0 +1,52 @@
+#background {
+/*  background-image: url("https://img1.goodfon.com/original/1600x900/7/84/metal-black-and-white-gym.jpg");
+  background-repeat: no-repeat;*/
+  background-size: cover;
+}
+#menu {
+  color: black;
+  font-size: 12px;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  position: fixed;
+  top: 5%;
+  right: 5%;
+}
+tr, td, th {
+  padding-left: 50px;
+}
+p {
+  text-indent: 50px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+#content1 {
+  margin-top: 25%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+#classesTable {
+  text-align: center;
+  max-width: 400px;
+  margin: 25px auto;
+}
+#requirements {
+  text-align: center;
+  max-width: 400px;
+  margin: 25px auto;
+}
+#signin {
+  margin-top: 25px;
+  margin-left: 5%;
+}
+#social-media {
+  margin: 25px auto;
+  text-align: center;
+
+}
+#table1 {
+  padding: 10px;
+}
