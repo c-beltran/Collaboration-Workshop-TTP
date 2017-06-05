@@ -62,8 +62,9 @@ a {
 }
 =======
 #background {
-  background-image: url("https://wallpaperscraft.com/image/black_background_pattern_light_texture_55291_3840x2400.jpg");
+  background-image: url("https://img1.goodfon.com/original/1600x900/7/84/metal-black-and-white-gym.jpg");
   background-size: cover;
+  background-image
 }
 #menu {
   color: white;
@@ -134,4 +135,12 @@ a {
   margin-bottom: 100px;
   margin-left: 25%;
 }
-
+#logo {
+  float: left;
+  position: fixed;
+  top: 3%;
+  left: 1%;
+  width: 150px;
+  height: 100px;
+  /*border: 5px white solid;*/
+}
