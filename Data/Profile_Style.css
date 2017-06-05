@@ -1,0 +1,92 @@
+#background {
+  background-image: url("http://cdn.wallpapersafari.com/4/59/ZpEWTJ.jpg");
+  background-size: cover;
+}
+#menu {
+  color: white;
+  font-size: 12px;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  position: fixed;
+  top: 5%;
+  right: 5%;
+}
+tr, td {
+  padding-left: 50px;
+}
+#name {
+  color: white;
+  font-size: 80px;
+  font-family: sans-serif;
+  font-weight: lighter;
+  text-align: center;
+  width: 500px;
+  height: 100px;
+  margin-top: 200px;
+  margin-bottom: 50px;
+  margin-left: 32%;
+  letter-spacing: 5px;
+
+}
+#gallery {
+  color: white;
+  font-size: 15px;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 7px;
+  width: 100px;
+  height: 30px;
+  border: 3px white ;
+  font-size: 15px;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 7px;
+  width: 100px;
+  height: 30px;
+  border: 3px white solid;
+  float: left;
+  margin-left: 10px;
+  display: block;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+.fill-screen{
+  display: block;
+  margin-right: 30%;
+}
+.fit {
+  float: right;
+  margin-right: 150;
+  width: 60%;
+/*  overflow: hidden;*/
+}
+#content1{
+
+  padding-top: 50px;
+ font-size: 50px;
+ font-family: fantasy;
+ color: blue;
+  text-align: center;
+  clear: both;
+}
+#locationPic{
+float: right;
+width: 80%;
+margin-top: 50px;
+margin-right: 150px;
+margin-bottom: 100px;
+
+}
+
+#content3{
+  font-size: 50px;
+ font-family: fantasy;
+   text-align: center;
+  clear: both;
+  margin-bottom: 50px;
+}
