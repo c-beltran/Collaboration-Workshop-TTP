@@ -71,3 +71,29 @@ ul {
   border-radius: 5px;
   border-color: transparent;
 }
+
+#social{
+
+  /*background-color: rgba(76,76,76,1);*/
+
+  color: blue;
+
+  font-size: 30px;
+
+  text-align: center;
+
+  word-spacing: 30px;
+
+
+}
+
+
+#footer{
+  clear: both;
+
+  position: relative;
+
+  bottom: -150px;
+
+}
+
