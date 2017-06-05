@@ -24,12 +24,12 @@ tr, td {
   width: 1000px;
   height: 100px;
   margin-top: 200px;
-  margin-bottom: 50px;
-  margin-left: 18%;
+  margin-bottom: 20px;
+  margin-left: 15%;
   letter-spacing: 5px;
   /*border: 5px white solid;*/
 }
-#gallery {
+#joinUs {
   color: white;
   font-size: 15px;
   font-family: sans-serif;
@@ -42,7 +42,7 @@ tr, td {
   float: left;
   margin-left: 42%;
 }
-#resume {
+#contact {
   color: white;
   font-size: 15px;
   font-family: sans-serif;
@@ -58,4 +58,16 @@ tr, td {
 a {
   text-decoration: none;
   color: white;
+}
+#intro {
+  color: white;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: lighter;
+  text-align: justify;
+  width: 700px;
+  height: 50px;
+  margin-top: 20px;
+  margin-bottom: 100px;
+  margin-left: 25%;
 }
