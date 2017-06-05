@@ -153,3 +153,9 @@ a {
   word-spacing: 30px;
   position: relative;
 }
+
+#footer{
+  position: relative;
+  bottom: -100px;
+
+}
