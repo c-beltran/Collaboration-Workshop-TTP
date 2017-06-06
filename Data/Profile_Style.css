@@ -1,6 +1,9 @@
 #background {
-  background-image: url("http://cdn.wallpapersafari.com/4/59/ZpEWTJ.jpg");
+  background-image: url("img/Contact.png");
   background-size: cover;
+ /* background-repeat: no-repeat;*/
+    background-attachment: fixed;
+   /* background-position: center;*/
 }
 #menu {
   color: white;
@@ -70,7 +73,7 @@ a {
   padding-top: 50px;
  font-size: 50px;
  font-family: fantasy;
- color: blue;
+ color: white;
   text-align: center;
   clear: both;
 }
@@ -88,7 +91,22 @@ margin-bottom: 100px;
  font-family: fantasy;
    text-align: center;
   clear: both;
-  margin-bottom: 50px;
+  margin-bottom: 0;
+}
+
+#logo {
+
+  float: left;
+
+  position: absolute;
+
+  top: 3%;
+
+  left: 1%;
+
+  width: 150px;
+
+  height: 100px;
 }
 
 #social{
@@ -103,12 +121,20 @@ margin-bottom: 100px;
 
   word-spacing: 30px;
 
+}
 
+.text-size{
+ font-size: 20px;
+ color: #b8c3d8; 
+ text-align: center;
+ font-family: fantasy;
+ margin-bottom: -10px;
 }
 
 
-
 #footer{
+  margin-top: -150px;
+
   clear: both;
 
   position: relative;
